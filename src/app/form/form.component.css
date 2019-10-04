@@ -1,0 +1,48 @@
+
+.container{
+  margin-top:3rem;
+}
+.mat-select{
+  width: 30%;
+}
+.mat-slider{
+  width: 60%;
+}
+.row{
+  padding-left: 5%;
+  padding-right: 5%;
+}
+mat-raised-button{
+  background-color: goldenrod;
+  color: black;
+}
+/* .gender{
+  padding-top: 25px;
+}
+.slider{
+  padding-top:20px;
+} */
+
+.example-form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+}
+
+.example-full-width {
+  width: 100%;
+}
+
+/* .example-radio-group {
+  display: flex;
+  flex-direction: column;
+  margin: 15px 0;
+}
+
+.example-radio-button {
+  margin: 5px;
+}
+
+.mat-slider{
+  width: 30%;
+} */
